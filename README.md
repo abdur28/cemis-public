@@ -7,7 +7,7 @@
 ## Screenshots
 
 ### Dashboard
-![CEMIS Dashboard](cemis.png)
+![CEMIS Dashboard](cemis1.png)
 *Admin dashboard with patient statistics, admission charts, and recent patient activity — with English/Russian language toggle*
 
 ---
